@@ -38,11 +38,12 @@ Instead of just querying data, I built an interactive application that runs dire
 - Explore **Snowpark for Python** to build smoothie recommendations  
 
 
-[![CodeQL](https://github.com/appuv/melanies_smoothies/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/melanies_smoothies/actions/workflows/github-code-scanning/codeql) [![License](https://img.shields.io/github/license/appuv/melanies_smoothies)](https://github.com/appuv/melanies_smoothies/blob/main/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/melanies_smoothies)]([https://github.com/appuv/melanies_smoothies](https://img.shields.io/github/languages/top/appuv/melanies_smoothies))
+
+
 
 
 # App 
-![App](images/app.png)
+<img width="643" height="863" alt="Screenshot 2025-08-26 160801" src="https://github.com/user-attachments/assets/21621e6f-3c69-45b5-bfc4-06fbb3b46161" />
 
 # Course
 [Badge 3: Data Application Builders Workshop](https://achieve.snowflake.com/26eb5513-6d6f-46ef-9411-15f7f5fe945c#acc.Wso9DIA8)
