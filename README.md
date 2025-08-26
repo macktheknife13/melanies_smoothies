@@ -43,6 +43,8 @@ Instead of just querying data, I built an interactive application that runs dire
 
 
 # App 
+[Melanie's Smoothie App](https://melaniessmoothies-0000.streamlit.app/)
+
 <img width="643" height="863" alt="Screenshot 2025-08-26 160801" src="https://github.com/user-attachments/assets/21621e6f-3c69-45b5-bfc4-06fbb3b46161" />
 
 # Course
